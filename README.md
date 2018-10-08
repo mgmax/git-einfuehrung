@@ -15,6 +15,8 @@ Notizen für einen Kurzworkshop zu git, LaTeX und drumherum
 - https://book.git-scm.com/doc
 
 ## LaTeX Schnellstart
+- Beispieldateien mit den wichtigsten Befehlen: https://github.com/jabranham/latex-workshop
+- https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 - https://latex.tugraz.at/_media/docs/l2kurz.pdf
 - gibts was besseres?
 
