@@ -10,9 +10,11 @@ Notizen für einen Kurzworkshop zu git, LaTeX und drumherum
 (oder ähnliches, wir brauchen TeX-Editor, TeX-Installation, git und ggf. eine graphische Oberfläche für git)
 
 ## git Anleitungen
-- https://rogerdudler.github.io/git-guide/index.de.html
-- https://guides.github.com/activities/hello-world/
-- https://book.git-scm.com/doc
+- ultra-kurzes Tutorial für git-Kommandozeile: https://rogerdudler.github.io/git-guide/index.de.html
+- github hello world Tutorial: https://guides.github.com/activities/hello-world/
+- Visualizing git: Herumspielen mit dem commit-Baum http://git-school.github.io/visualizing-git
+- Übersicht über verschiedenste Materialien: https://try.github.io/
+- das echte Handbuch: https://book.git-scm.com/doc
 
 ## LaTeX Schnellstart
 - Beispieldateien mit den wichtigsten Befehlen: https://github.com/jabranham/latex-workshop
